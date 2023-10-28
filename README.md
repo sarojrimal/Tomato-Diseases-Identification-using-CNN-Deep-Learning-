@@ -1,4 +1,5 @@
 # Tomato-Diseases-Identification-using-CNN-Deep-Learning-
+For Mobile Application : https://github.com/sarojrimal/Mobile-App-Tomato-Disease-Classification-  
 ![Slide1](https://github.com/sarojrimal/Tomato-Diseases-Identification-using-CNN-Deep-Learning-/assets/48502669/9d8f07be-3ffc-40ac-8413-14e88be87a13)
 ![Slide2](https://github.com/sarojrimal/Tomato-Diseases-Identification-using-CNN-Deep-Learning-/assets/48502669/f9f289c7-3726-493a-b485-d41ac2336b2f)
 ![Slide3](https://github.com/sarojrimal/Tomato-Diseases-Identification-using-CNN-Deep-Learning-/assets/48502669/a3efa40b-46fb-421f-9a6b-439fcb5d4a2d)
